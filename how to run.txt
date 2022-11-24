@@ -1,0 +1,8 @@
+install xampp app
+now,start apache and mysql
+now,paste complete folder in c drive xampp htdocs folder
+
+now go to any browser on device and search localhost/folder name
+
+and you are ready to go 
+login page will appear from there you can move to sign up page and register yourself and may use our site.
