@@ -6,3 +6,8 @@ now go to any browser on device and search localhost/folder name
 
 and you are ready to go 
 login page will appear from there you can move to sign up page and register yourself and may use our site.
+
+
+
+//U can convert .php files to .html to see the webpages
+
